@@ -5,9 +5,16 @@ def diffieHel(p, alpha, a, b):
 	commonkeyA = (public_keyB ** a) % p
 	commonkeyB = (public_keyA ** b) % p
 	if commonkeyA == commonkeyB:
-        	return commonkeyA
+		return commonkeyA
 	else:
 		return None
+
+def diffie_run(p, alpha, a, b):
+	res = diffieHel(p, alpha, a, b)
+	if res != None:
+		print("The common key is ", res, sep="")
+	else:
+		print("something went wrong")
 
 def main():
 	p = 17
