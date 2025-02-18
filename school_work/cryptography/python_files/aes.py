@@ -47,7 +47,5 @@ def main():
    decrypted_data = aes_decrypt(key, iv, y)
    print("Decrypted text =", decrypted_data)
 
-
-
-
-main()
+if __name__ == "__main__":
+   main()

@@ -15,4 +15,6 @@ def primitive_elm(n):
 def main():
 	n = 13
 	print("primitive elments are ", primitive_elm(n), sep="")
-main()
+
+if __name__ == "__main__":
+	main()

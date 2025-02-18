@@ -14,5 +14,9 @@ M = 2**B
 # collision probability
 P = 0.1
 
-num_messages = math.ceil(math.sqrt(2 * M * math.log(1 / (1-P))))
-print("Number of messages needed:", num_messages)
+def main():
+    num_messages = math.ceil(math.sqrt(2 * M * math.log(1 / (1-P))))
+    print("Number of messages needed:", num_messages)
+
+if __name__ == "__main__":
+    main()

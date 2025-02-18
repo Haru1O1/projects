@@ -38,9 +38,13 @@ def solve_intersection_points(p, m, b):
         print(f"x: {x}, y: {y}, y_square: {y_square}, line(x, m, b, p): {line(x, m, b, p)}")
     return intersection_points
 
-# y = mx + b mod p
-p = 7
-m = 4
-b = 3
-intersection_points = solve_intersection_points(p, m, b)
-print("Intersection points:", intersection_points)
+def main():
+    # y = mx + b mod p
+    p = 7
+    m = 4
+    b = 3
+    intersection_points = solve_intersection_points(p, m, b)
+    print("Intersection points:", intersection_points)
+
+if __name__ == "__main__":
+    main()

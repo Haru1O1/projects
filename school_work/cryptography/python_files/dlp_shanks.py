@@ -14,8 +14,13 @@ def shank_bsgs(alpha, beta, p):
          print(x,",",xb,",",xg, sep="")
          return x
    return None
-shank_bsgs(41, 12959645, 100000081)
-shank_bsgs(105, 308, 701)
-shank_bsgs(3, 18, 19)
-shank_bsgs(6,8,17)
-#shank_bsgs(105, 308, 701)
+
+def main():
+   shank_bsgs(41, 12959645, 100000081)
+   shank_bsgs(105, 308, 701)
+   shank_bsgs(3, 18, 19)
+   shank_bsgs(6,8,17)
+   shank_bsgs(105, 308, 701)
+
+if __name__ == "__main__":
+  main()

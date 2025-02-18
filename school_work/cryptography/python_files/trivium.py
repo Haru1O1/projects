@@ -57,5 +57,6 @@ def main():
     output = shift(A, B, C)
     print(output, end='')
 
-main()
+if __name__ == "__main__":
+  main()
 

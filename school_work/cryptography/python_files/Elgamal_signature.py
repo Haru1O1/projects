@@ -32,14 +32,18 @@ def elgamal_sign(p, alpha, beta, d, x, k):
     s = ((x - d * r) % (p-1)) * k_inv % (p-1)
     return (r, s)
 
-# Example usage:
-p = 29  # A large prime modulus (must be a safe prime for security)
-alpha = 6       # Generator of the multiplicative group Z_p^*
-d = 12  # Private key
-beta = 17  # Public key component beta
+def main():
+    # Example usage:
+    p = 29  # A large prime modulus (must be a safe prime for security)
+    alpha = 6       # Generator of the multiplicative group Z_p^*
+    d = 12  # Private key
+    beta = 17  # Public key component beta
 
-message = 5  # Message to be signed (an integer)
-k = 39  # Ephemeral key (random integer)
-# Generate ElGamal signature
-signature = elgamal_sign(p, alpha, beta, d, message, k)
-print("Generated Signature (r, s):", signature)
+    message = 5  # Message to be signed (an integer)
+    k = 39  # Ephemeral key (random integer)
+    # Generate ElGamal signature
+    signature = elgamal_sign(p, alpha, beta, d, message, k)
+    print("Generated Signature (r, s):", signature)
+
+if __name__ == "__main__":
+   main()

@@ -13,4 +13,8 @@ def brute_DLP(alpha, beta, p):
 		beta_x_alpha_pow = (beta_x_alpha_pow * alpha_inv) % p
 	return None
 
-print(brute_DLP(41, 12959645, 100000081))
+def main():
+	print(brute_DLP(41, 12959645, 100000081))
+
+if __name__ == "__main__":
+  main()

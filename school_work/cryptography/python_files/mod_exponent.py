@@ -11,12 +11,15 @@ def modular_exponentiation(base, exponent, modulus):
 
     return result
 
-# Example usage:
-a = 200
-b = 14161729
-m = 2269733
+def main():
+    # Example usage:
+    a = 200
+    b = 14161729
+    m = 2269733
 
-# Compute a^b % m using modular exponentiation
-result = modular_exponentiation(a, b, m)
-print(result)  # Output: 883430
+    # Compute a^b % m using modular exponentiation
+    result = modular_exponentiation(a, b, m)
+    print(result)  # Output: 883430
 
+if __name__ == "__main__":
+    main()
