@@ -1,0 +1,457 @@
+id, name
+5,Cate Blanchett
+6,Robert De Niro
+7,Viola Davis
+8,Leonardo DiCaprio
+9,Kate Winslet
+10,Morgan Freeman
+11,Nicole Kidman
+12,Joaquin Phoenix
+13,Natalie Portman
+14,Brad Pitt
+15,Julianne Moore
+16,Daniel Day-Lewis
+17,Charlize Theron
+18,Anthony Hopkins
+19,Emma Stone
+20,Al Pacino
+21,Saoirse Ronan
+22,Christian Bale
+23,Amy Adams
+24,Gary Oldman
+25,Frances McDormand
+28,Sean Penn
+29,Jessica Chastain
+31,Marion Cotillard
+32,Jeff Bridges
+33,Emily Blunt
+34,Russell Crowe
+35,Jennifer Lawrence
+38,Ryan Gosling
+39,Helen Mirren
+40,Matthew McConaughey
+41,Rachel Weisz
+42,Tom Cruise
+43,Michelle Williams
+45,Glenn Close
+46,Eddie Redmayne
+47,Brie Larson
+48,George Clooney
+49,Carey Mulligan
+50,Benicio Del Toro
+51,Anne Hathaway
+53,Judi Dench
+54,Chiwetel Ejiofor
+55,Sandra Bullock
+56,Colin Firth
+57,Keira Knightley
+58,Idris Elba
+60,Johnny Depp
+61,Naomi Watts
+62,Robert Pattinson
+63,Kristen Stewart
+64,Angelina Jolie
+65,Rami Malek
+66,Greta Gerwig
+67,Timothée Chalamet
+69,Adam Driver
+70,Margot Robbie
+71,Philip Seymour Hoffman
+72,Sigourney Weaver
+73,Jake Gyllenhaal
+74,Rooney Mara
+75,Forest Whitaker
+76,Pedro Almodóvar
+77,Willem Dafoe
+78,Elisabeth Moss
+79,Annette Bening
+80,Jeremy Renner
+81,Laura Dern
+82,Samuel L. Jackson
+83,Sally Hawkins
+84,Richard Jenkins
+85,Melissa McCarthy
+86,Mark Ruffalo
+87,Jennifer Connelly
+89,Penélope Cruz
+90,Robert Downey Jr.
+91,Chris Hemsworth
+92,Scarlett Johansson
+93,Elizabeth Olsen
+94,Tom Hiddleston
+95,Chadwick Boseman
+96,Chris Evans
+97,Zoe Saldana
+98,Benedict Cumberbatch
+99,Paul Rudd
+100,Evangeline Lilly
+101,Michael B. Jordan
+102,Lupita Nyong'o
+103,Danai Gurira
+104,Letitia Wright
+105,Angela Bassett
+106,Andy Serkis
+107,Martin Freeman
+108,Daniel Kaluuya
+109,Winston Duke
+111,Florence Kasumba
+112,John Kani
+113,David Oyelowo
+114,Oprah Winfrey
+115,Reese Witherspoon
+116,Mindy Kaling
+117,Gugu Mbatha-Raw
+118,Chris Pine
+119,Zac Efron
+120,Zendaya
+121,Hugh Jackman
+122,James McAvoy
+123,Michael Fassbender
+125,Halle Berry
+127,Patrick Stewart
+128,Ellen Page
+129,Kelsey Grammer
+130,Nicholas Hoult
+131,Anna Paquin
+132,Shawn Ashmore
+133,Peter Dinklage
+134,Omar Sy
+135,Evan Peters
+136,Josh Helman
+137,Fan Bingbing
+138,Booboo Stewart
+139,Adan Canto
+140,Daniel Cudmore
+141,Bingbing Li
+142,Waris Ahluwalia
+143,F. Murray Abraham
+144,Mathieu Amalric
+145,Adrien Brody
+147,Martin Scorsese
+148,Harvey Keitel
+149,Jude Law
+150,Bill Murray
+151,Edward Norton
+153,Jason Schwartzman
+154,Léa Seydoux
+156,Tom Wilkinson
+157,Owen Wilson
+158,Tony Revolori
+161,Ewan McGregor
+162,Brenton Thwaites
+163,Alicia Vikander
+164,Dane DeHaan
+165,Cara Delevingne
+166,Clive Owen
+167,Rihanna
+168,Ethan Hawke
+169,Herbie Hancock
+170,Kris Wu
+171,Rutger Hauer
+172,John Goodman
+173,Elizabeth Debicki
+174,Sam Spruell
+175,Alain Chabat
+176,Thom Browne
+177,Peter Jackson
+178,Steven Spielberg
+179,Quentin Tarantino
+180,Christopher Nolan
+181,Ridley Scott
+182,Guillermo del Toro
+183,Darren Aronofsky
+184,Spike Lee
+185,Wes Anderson
+186,Taika Waititi
+187,Jordan Peele
+189,Bong Joon-ho
+190,Paul Thomas Anderson
+191,Kathryn Bigelow
+192,Alejandro González Iñárritu
+193,Damien Chazelle
+194,Barry Jenkins
+195,Denis Villeneuve
+196,Ryan Coogler
+197,Patty Jenkins
+198,Rian Johnson
+199,J.J. Abrams
+200,David Fincher
+201,Ang Lee
+203,Florence Pugh
+204,Keanu Reeves
+205,Michael Keaton
+206,Stanley Kubrick
+207,Sam Rockwell
+210,Toni Collette
+211,Ian McKellen
+212,Cillian Murphy
+213,Emma Thompson
+215,Bill Nighy
+216,Rachel McAdams
+217,Ralph Fiennes
+219,Rosamund Pike
+220,Dev Patel
+221,Ben Kingsley
+222,Helena Bonham Carter
+223,Daniel Craig
+224,Eddie Murphy
+225,Bruce Willis
+226,Julia Roberts
+227,Diane Keaton
+228,Whoopi Goldberg
+229,Steve Martin
+231,Jamie Lee Curtis
+232,Mandy Patinkin
+233,Jeff Goldblum
+234,Richard Gere
+236,Alfre Woodard
+237,Laurence Fishburne
+239,Don Cheadle
+241,Taraji P. Henson
+242,Octavia Spencer
+243,Mahershala Ali
+244,Sterling K. Brown
+245,Brian Tyree Henry
+246,Regina King
+247,Kerry Washington
+248,Thandie Newton
+250,Danish Naveed
+254,John Boyega
+256,Tessa Thompson
+257,Cynthia Erivo
+258,Aldis Hodge
+259,Lakeith Stanfield
+260,Zazie Beetz
+261,Janelle Monáe
+262,Alfred Hitchcock
+263,Anthony Mackie
+264,Dominique Fishback
+265,Jonathan Majors
+266,Ashton Sanders
+267,Yahya Abdul-Mateen II
+268,Kelvin Harrison Jr.
+269,Kingsley Ben-Adir
+270,Ariana DeBose
+271,Stephan James
+272,Teyonah Parris
+273,Nicole Beharie
+274,Trevante Rhodes
+275,Amandla Stenberg
+276,Storm Reid
+277,Shamier Anderson
+278,Damson Idris
+279,Danielle Brooks
+280,Jasmine Cephas Jones
+281,LaKeith Stanfield
+282,Daveed Diggs
+283,Leslie Odom Jr.
+284,Renée Elise Goldsberry
+285,Phillipa Soo
+286,Lin-Manuel Miranda
+287,Anthony Ramos
+288,Corey Hawkins
+289,Michaela Coel
+291,Issa Rae
+292,Marsai Martin
+293,Caleb McLaughlin
+295,RJ Cyler
+296,Alex Hibbert
+297,Jharrel Jerome
+298,Kiki Layne
+301,Tom Hardy
+303,Benedict Wong
+304,Ken Watanabe
+305,Tilda Swinton
+306,Gael García Bernal
+307,Diego Luna
+308,Salma Hayek
+310,Antonio Banderas
+311,Javier Bardem
+312,Gong Li
+313,Donnie Yen
+314,Michelle Yeoh
+315,Tony Leung Chiu-Wai
+316,Maggie Cheung
+317,Jet Li
+318,Ziyi Zhang
+319,Andy Lau
+320,Takeshi Kaneshiro
+321,Rinko Kikuchi
+322,Hiroyuki Sanada
+323,Ken Jeong
+324,Constance Wu
+325,Henry Golding
+326,Awkwafina
+327,Gemma Chan
+328,Simu Liu
+329,Randall Park
+330,Sandra Oh
+331,Ali Wong
+332,John Cho
+333,Steven Yeun
+334,Margaret Cho
+335,Lucy Liu
+336,Ming-Na Wen
+337,Daniel Dae Kim
+338,Grace Park
+339,Ludi Lin
+340,Joe Taslim
+341,Iko Uwais
+342,Yayan Ruhian
+343,Tony Jaa
+344,Pankaj Tripathi
+345,Rajkummar Rao
+346,Ayushmann Khurrana
+347,Vicky Kaushal
+348,Alia Bhatt
+349,Deepika Padukone
+350,Priyanka Chopra
+351,Irrfan Khan
+352,Nawazuddin Siddiqui
+353,Sushant Singh Rajput
+354,Taapsee Pannu
+355,Bhumi Pednekar
+356,Kiara Advani
+357,Kartik Aaryan
+358,Ranveer Singh
+359,Shahid Kapoor
+360,Anushka Sharma
+361,Vidya Balan
+362,Kangana Ranaut
+363,Rani Mukerji
+364,Kareena Kapoor
+365,Saif Ali Khan
+366,Aamir Khan
+367,Salman Khan
+368,Shah Rukh Khan
+369,Kajol
+370,Amitabh Bachchan
+371,Hrithik Roshan
+372,Madhuri Dixit
+373,Sridevi
+374,Rajinikanth
+375,Kamal Haasan
+376,Vijay
+377,Ajith Kumar
+378,Suriya
+379,Dhanush
+381,Fahadh Faasil
+382,Nivin Pauly
+383,Prithviraj Sukumaran
+384,Parvathy Thiruvothu
+385,Tovino Thomas
+386,Asif Ali
+387,Rima Kallingal
+388,Manju Warrier
+389,Nithya Menen
+390,Sai Pallavi
+391,Trisha Krishnan
+392,Samantha Ruth Prabhu
+393,Anjali
+394,Nazriya Nazim
+395,Keerthy Suresh
+396,Andrea Jeremiah
+397,Aishwarya Rajesh
+398,Ramya Krishnan
+399,Revathi
+400,Shobana
+401,Urvashi
+402,Suresh Gopi
+403,Jayaram
+404,Dileep
+405,Jayasurya
+406,Indrajith Sukumaran
+407,Kunchacko Boban
+408,Fahad Mustafa
+409,Mohanlal
+410,Mammootty
+411,Biju Menon
+412,Prakash Raj
+413,Gautham Vasudev Menon
+414,R. Madhavan
+415,Arya
+416,Jiiva
+417,Vikram
+418,Siddharth
+419,Rana Daggubati
+420,Nani
+421,Allu Arjun
+422,Ram Charan
+423,Mahesh Babu
+424,Pawan Kalyan
+425,Prabhas
+426,Jr NTR
+427,Venkatesh
+428,Nagarjuna
+429,Chiranjeevi
+430,Balakrishna
+431,Akkineni Nageswara Rao
+432,Sivaji Ganesan
+433,M. G. Ramachandran
+434,Dulquer Salmaan
+435,Naseeruddin Shah
+436,Om Puri
+437,Anupam Kher
+438,Paresh Rawal
+439,Boman Irani
+440,Kay Kay Menon
+441,Manoj Bajpayee
+442,Rajpal Yadav
+443,Sanjay Mishra
+444,Vijay Raaz
+445,Ashutosh Rana
+446,Atul Kulkarni
+447,Raghuvir Yadav
+448,Vinay Pathak
+449,Arshad Warsi
+450,Abhay Deol
+451,Emraan Hashmi
+452,Farhan Akhtar
+453,Kalki Koechlin
+454,Richa Chadda
+455,Radhika Apte
+456,Konkona Sen Sharma
+457,Shabana Azmi
+458,Jaya Bachchan
+459,Waheeda Rehman
+460,Rekha
+461,Hema Malini
+462,Zeenat Aman
+463,Parveen Babi
+464,Sharmila Tagore
+465,Tanuja
+466,Rakhee Gulzar
+467,Neetu Singh
+468,Rishi Kapoor
+469,Vinod Khanna
+470,Dharmendra
+471,Jeetendra
+472,Rajesh Khanna
+473,Feroz Khan
+474,Amjad Khan
+475,Sanjeev Kumar
+476,Om Shivpuri
+477,Kulbhushan Kharbanda
+478,Amrish Puri
+479,Pran
+480,Prem Chopra
+481,Gulshan Grover
+482,Danny Denzongpa
+483,Nana Patekar
+484,Anil Kapoor
+485,Jackie Shroff
+486,Sunny Deol
+487,Bobby Deol
+488,Akshay Kumar
+489,Ajay Devgn
+490,Suniel Shetty
+491,Arjun Rampal
+492,Vivek Oberoi
+493,John Abraham
+494,Abhishek Bachchan
+495,Riteish Deshmukh
+496,Tusshar Kapoor
+497,Aftab Shivdasani
+498,Dino Morea
+499,Arbaaz Khan
+500,Sohail Khan
