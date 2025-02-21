@@ -62,4 +62,6 @@ def main():
     os.system("clear") # clear the screen
     text() # text function
     print("\n") # new line
-main() # calls main
+
+if __name__ == "__main__":
+    main()

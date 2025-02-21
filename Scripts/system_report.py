@@ -133,4 +133,6 @@ def main():
     os.system("clear")
     print(f.read())
     f.close()
-main()
+
+if __name__ == "__main__":
+    main()

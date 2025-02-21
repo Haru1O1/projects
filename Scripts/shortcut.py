@@ -161,4 +161,5 @@ def main():
     print ("\nQuiting program.",
         "\033[1;33;40mHave a wonderful day!\033[0;0m", sep = "\n\n")
 
-main()
+if __name__ == "__main__":
+    main()
